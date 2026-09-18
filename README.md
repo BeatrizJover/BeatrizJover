@@ -10,7 +10,7 @@ I'm a Data Engineer based in Belgium 🇧🇪. I started out forecasting hotel d
     - **Ethical AI**: if a system makes decisions about people, someone should be able to explain how
     - **Sustainable AI**: compute isn't free, not for the budget and not for the planet
     - **Data security**: who gets to see your data matters as much as what you do with it
-- 🗺️ **The road so far:** Tourism degree → demand analyst → BeCode bootcamp → GenAI traineeship at ING → Projects
+- 🗺️ **The road so far:** Tourism degree → Demand Analyst → BeCode bootcamp → GenAI traineeship at ING → Projects
 - 🍜 **Off the clock:** reading manga, learning for fun about Asian culture and history, and cooking my way through Asian cuisines, one recipe (and a few failed attempts 😬) at a time.
 
 ## 🛠️ Tech I work with
