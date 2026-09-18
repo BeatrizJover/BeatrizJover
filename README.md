@@ -4,7 +4,7 @@ I'm a Data Engineer based in Belgium 🇧🇪. I started out forecasting hotel d
 
 ---
 
-- 🚀 **Right now:** building lakehouses on Microsoft Fabric and Databricks, and learning how to put LLMs on top of them.
+- 🚀 **Right now:** Architecting lakehouses on Microsoft Fabric and Databricks to power LLM applications.
 - 🌱 **Heading towards:** AI engineering, one project at a time
 - 🧭 **What I care about:**
     - **Ethical AI**: if a system makes decisions about people, someone should be able to explain how
